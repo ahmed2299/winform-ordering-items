@@ -1,0 +1,30 @@
+C:\Users\POSBANK New 2\Desktop\WinForms Advanced\WinForms Advanced\bin\Debug\Test.exe.config
+C:\Users\POSBANK New 2\Desktop\WinForms Advanced\WinForms Advanced\bin\Debug\Test.exe
+C:\Users\POSBANK New 2\Desktop\WinForms Advanced\WinForms Advanced\bin\Debug\Test.pdb
+C:\Users\POSBANK New 2\Desktop\WinForms Advanced\WinForms Advanced\bin\Debug\System.Data.SqlClient.dll
+C:\Users\POSBANK New 2\Desktop\WinForms Advanced\WinForms Advanced\bin\Debug\System.Data.SqlClient.xml
+C:\Users\POSBANK New 2\Desktop\WinForms Advanced\WinForms Advanced\obj\Debug\Test.csproj.AssemblyReference.cache
+C:\Users\POSBANK New 2\Desktop\WinForms Advanced\WinForms Advanced\obj\Debug\Test.csproj.SuggestedBindingRedirects.cache
+C:\Users\POSBANK New 2\Desktop\WinForms Advanced\WinForms Advanced\obj\Debug\Test.Form1.resources
+C:\Users\POSBANK New 2\Desktop\WinForms Advanced\WinForms Advanced\obj\Debug\Test.Properties.Resources.resources
+C:\Users\POSBANK New 2\Desktop\WinForms Advanced\WinForms Advanced\obj\Debug\Test.csproj.GenerateResource.cache
+C:\Users\POSBANK New 2\Desktop\WinForms Advanced\WinForms Advanced\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\POSBANK New 2\Desktop\WinForms Advanced\WinForms Advanced\obj\Debug\Test.csproj.CopyComplete
+C:\Users\POSBANK New 2\Desktop\WinForms Advanced\WinForms Advanced\obj\Debug\Test.exe
+C:\Users\POSBANK New 2\Desktop\WinForms Advanced\WinForms Advanced\obj\Debug\Test.pdb
+E:\.NET course\my_projects\WinForms Advanced\bin\Debug\Test.exe.config
+E:\.NET course\my_projects\WinForms Advanced\bin\Debug\Test.exe
+E:\.NET course\my_projects\WinForms Advanced\bin\Debug\Test.pdb
+E:\.NET course\my_projects\WinForms Advanced\bin\Debug\System.Data.SqlClient.dll
+E:\.NET course\my_projects\WinForms Advanced\bin\Debug\System.Data.SqlClient.xml
+E:\.NET course\my_projects\WinForms Advanced\obj\Debug\Test.csproj.AssemblyReference.cache
+E:\.NET course\my_projects\WinForms Advanced\obj\Debug\Test.csproj.SuggestedBindingRedirects.cache
+E:\.NET course\my_projects\WinForms Advanced\obj\Debug\Test.Form1.resources
+E:\.NET course\my_projects\WinForms Advanced\obj\Debug\Test.Properties.Resources.resources
+E:\.NET course\my_projects\WinForms Advanced\obj\Debug\Test.csproj.GenerateResource.cache
+E:\.NET course\my_projects\WinForms Advanced\obj\Debug\Test.csproj.CoreCompileInputs.cache
+E:\.NET course\my_projects\WinForms Advanced\obj\Debug\Test.csproj.CopyComplete
+E:\.NET course\my_projects\WinForms Advanced\obj\Debug\Test.exe
+E:\.NET course\my_projects\WinForms Advanced\obj\Debug\Test.pdb
+E:\.NET course\my_projects\WinForms Advanced\bin\Debug\Newtonsoft.Json.dll
+E:\.NET course\my_projects\WinForms Advanced\bin\Debug\Newtonsoft.Json.xml

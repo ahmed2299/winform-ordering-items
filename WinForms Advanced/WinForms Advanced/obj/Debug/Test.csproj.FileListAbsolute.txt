@@ -1,0 +1,14 @@
+C:\Users\POSBANK New 2\Desktop\WinForms Advanced\WinForms Advanced\bin\Debug\Test.exe.config
+C:\Users\POSBANK New 2\Desktop\WinForms Advanced\WinForms Advanced\bin\Debug\Test.exe
+C:\Users\POSBANK New 2\Desktop\WinForms Advanced\WinForms Advanced\bin\Debug\Test.pdb
+C:\Users\POSBANK New 2\Desktop\WinForms Advanced\WinForms Advanced\bin\Debug\System.Data.SqlClient.dll
+C:\Users\POSBANK New 2\Desktop\WinForms Advanced\WinForms Advanced\bin\Debug\System.Data.SqlClient.xml
+C:\Users\POSBANK New 2\Desktop\WinForms Advanced\WinForms Advanced\obj\Debug\Test.csproj.AssemblyReference.cache
+C:\Users\POSBANK New 2\Desktop\WinForms Advanced\WinForms Advanced\obj\Debug\Test.csproj.SuggestedBindingRedirects.cache
+C:\Users\POSBANK New 2\Desktop\WinForms Advanced\WinForms Advanced\obj\Debug\Test.Form1.resources
+C:\Users\POSBANK New 2\Desktop\WinForms Advanced\WinForms Advanced\obj\Debug\Test.Properties.Resources.resources
+C:\Users\POSBANK New 2\Desktop\WinForms Advanced\WinForms Advanced\obj\Debug\Test.csproj.GenerateResource.cache
+C:\Users\POSBANK New 2\Desktop\WinForms Advanced\WinForms Advanced\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\POSBANK New 2\Desktop\WinForms Advanced\WinForms Advanced\obj\Debug\Test.csproj.CopyComplete
+C:\Users\POSBANK New 2\Desktop\WinForms Advanced\WinForms Advanced\obj\Debug\Test.exe
+C:\Users\POSBANK New 2\Desktop\WinForms Advanced\WinForms Advanced\obj\Debug\Test.pdb

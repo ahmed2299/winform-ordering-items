@@ -1,0 +1,277 @@
+{
+	"info": {
+		"_postman_id": "7606e028-f29a-4230-887a-e6dffa7f1f8c",
+		"name": "Java Test",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Get All Notes",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": []
+				},
+				"url": {
+					"raw": "https://noteapi.popssolutions.net/notes/getall",
+					"protocol": "https",
+					"host": [
+						"noteapi",
+						"popssolutions",
+						"net"
+					],
+					"path": [
+						"notes",
+						"getall"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get All Users",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": []
+				},
+				"url": {
+					"raw": "https://noteapi.popssolutions.net/users/getall",
+					"protocol": "https",
+					"host": [
+						"noteapi",
+						"popssolutions",
+						"net"
+					],
+					"path": [
+						"users",
+						"getall"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get All Intrests",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": []
+				},
+				"url": {
+					"raw": "https://noteapi.popssolutions.net/intrests/getall",
+					"protocol": "https",
+					"host": [
+						"noteapi",
+						"popssolutions",
+						"net"
+					],
+					"path": [
+						"intrests",
+						"getall"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get Note",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://noteapi.popssolutions.net/notes/get/0",
+					"protocol": "https",
+					"host": [
+						"noteapi",
+						"popssolutions",
+						"net"
+					],
+					"path": [
+						"notes",
+						"get",
+						"0"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Update Note",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"Id\": \"0\",\r\n    \"Text\": \"dasd...\",\r\n    \"UserId\": \"1\",\r\n    \"PlaceDateTime\": \"2021-11-18T09:39:44\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://noteapi.popssolutions.net/notes/update",
+					"protocol": "https",
+					"host": [
+						"noteapi",
+						"popssolutions",
+						"net"
+					],
+					"path": [
+						"notes",
+						"update"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Insert Note",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"Text\": \"Test Note44\",\r\n    \"UserId\": \"1\",\r\n    \"PlaceDateTime\": \"2021-11-18T09:39:44\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://noteapi.popssolutions.net/notes/insert",
+					"protocol": "https",
+					"host": [
+						"noteapi",
+						"popssolutions",
+						"net"
+					],
+					"path": [
+						"notes",
+						"insert"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Clear Notes",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "https://noteapi.popssolutions.net/notes/clear",
+					"protocol": "https",
+					"host": [
+						"noteapi",
+						"popssolutions",
+						"net"
+					],
+					"path": [
+						"notes",
+						"clear"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Insert User",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"Username\": \"Ali\",\r\n    \"Password\": \"123456789\",\r\n    \"Email\": \"mssa@gmail.com\",\r\n    \"ImageAsBase64\": null,\r\n    \"IntrestId\": \"1\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://noteapi.popssolutions.net/users/insert",
+					"protocol": "https",
+					"host": [
+						"noteapi",
+						"popssolutions",
+						"net"
+					],
+					"path": [
+						"users",
+						"insert"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Delete User",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"Username\": \"Ali\",\r\n    \"Password\": \"123456789\",\r\n    \"Email\": \"mssa@gmail.com\",\r\n    \"ImageAsBase64\": null,\r\n    \"IntrestId\": \"1\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://noteapi.popssolutions.net/users/insert",
+					"protocol": "https",
+					"host": [
+						"noteapi",
+						"popssolutions",
+						"net"
+					],
+					"path": [
+						"users",
+						"insert"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Reset Dummy",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "https://noteapi.popssolutions.net/notes/dummyData",
+					"protocol": "https",
+					"host": [
+						"noteapi",
+						"popssolutions",
+						"net"
+					],
+					"path": [
+						"notes",
+						"dummyData"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
